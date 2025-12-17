@@ -12,7 +12,7 @@ This guide is for people doing online surveys, AI data tasks, and remote gig wor
 
 - Remotasks
 
-Similar region-restricted or trust-scored platforms
+- Similar region-restricted or trust-scored platforms
 
 If you’ve experienced:
 
