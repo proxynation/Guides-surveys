@@ -26,7 +26,7 @@ If you’ve experienced:
 
 this guide explains why that happens and how people usually reduce instability.
 
-This is not a workaround guide and not tied to any single provider. It’s a practical overview based on how these platforms typically evaluate access and trust.
+This is not a workaround guide, it’s a practical overview based on how these platforms typically evaluate access
 
 ## Why surveys disappear or accounts get limited
 
